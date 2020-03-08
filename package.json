@@ -2,10 +2,6 @@
   "name": "food_recipe_app",
   "version": "0.1.0",
   "private": true,
-  "engines": {
-    "npm": "6.14.2",
-    "node": "10.19.0"
-  },
 
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
